@@ -1,0 +1,1 @@
+this is a offline shadertoy revised version for myself, i implemented a glsl sandbox looking for orginal shadertoy, makes me fill much cool when creating shader stuffs.  you can push that php based web project to your own web server.
