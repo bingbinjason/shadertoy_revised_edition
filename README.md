@@ -2,6 +2,8 @@ this is a offline shadertoy revised version for myself, i implemented a glsl san
 
 the new glsl sandbox looking as showed below, additionally i added a gallery page as a place to show your all saved outstanding vfx's and etc..
 
+demo site here http://46.101.40.231
+
 ![screenshot](screenshot.jpg)
 
 
